@@ -1,0 +1,1 @@
+stdin.readLine.echo
